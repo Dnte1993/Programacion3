@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "TiendaLocal",
+            "database": "./tienda.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
